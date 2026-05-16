@@ -13,9 +13,9 @@ Estoy graduado de Analista Programador Universitario por la Universidad Nacional
 
 Sistema multiempresa orientado a la gestión comercial de negocios, permitiendo administrar productos, stock, precios, ventas, compras a proveedores y clientes. Incluye gestión de usuarios por negocio con control de roles y permisos.
 
-Rol: relevamiento de requerimientos, modelado de base de datos, diseño de la arquitectura del sistema, desarrollo de la API y testing.
-Tecnologías: Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL y Flyway.
-Repositorio:
+- Rol: relevamiento de requerimientos, modelado de base de datos, diseño de la arquitectura del sistema, desarrollo de la API y testing.
+- Tecnologías: Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL y Flyway.
+- Repositorio: https://github.com/manubarreto73/stockeate-API
 
 ### Sistema de Gestión de Expedientes – Facultad de Ciencias Médicas UNLP
 
